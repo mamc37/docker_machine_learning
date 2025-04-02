@@ -41,11 +41,12 @@ data = {
         "Horrible pacing and poor character development.",
         "One of the worst movies I've ever seen. Do not recommend!",
         "Everything about this movie was bad – from acting to story.",
-        "This was a complete disappointment, don't waste your time."
+        "This was a complete disappointment, don't waste your time.",
+        "This was a waste of time. I walked out halfway through."
     ],
     'sentiment': [
         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,  # 15 Positive
-        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0   # 15 Negative
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0   # 15 Negative
     ]
 }
 
